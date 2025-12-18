@@ -1,3 +1,17 @@
+
+├── data/                                # Thư mục chứa dữ liệu (Dataset)
+│  
+├── notebook/                            # Thư mục chứa Jupyter Notebooks (Mã nguồn chính)
+│   ├── Lab5_part1.pdf                    
+│
+├── README.md                           # File báo cáo chi tiết này
+│
+├── part1                                # Mã nguồn Python (Modules/Classes tái sử dụng)
+│   
+├── .gitignore                           # File cấu hình bỏ qua file rác (tmp, __pycache__)
+
+
+
 1. Implementation Steps
 
 Trong bài này, em thực hiện bài toán phân loại cảm xúc (sentiment classification) dựa trên tập dữ liệu gồm các câu bình luận đã được gán nhãn tích cực (1) hoặc tiêu cực (0). Các bước triển khai được thực hiện như sau:
